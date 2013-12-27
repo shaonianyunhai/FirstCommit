@@ -3,7 +3,7 @@
 
 #include <atlconv.h>
 #include "atlbase.h"
-#include "stdafx.h"
+//#include "stdafx.h"
 
 #include <AFX.H>
 #include <WINDOWS.H>
